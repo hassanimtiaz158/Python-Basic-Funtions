@@ -1,4 +1,4 @@
-#Python Basic Function
+Python Basic Function
 
 ```markdown
 # Assignment 01 - BSDSF23M014

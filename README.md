@@ -4,7 +4,7 @@
 # Assignment 01 - BSDSF23M014
 
 ## Overview
-This Jupyter Notebook contains the solution for **Assignment 01** of the BSDSF23M014 course, focusing on [brief topic description, e.g., data analysis, machine learning, algorithm implementation]. It includes a structured approach with explanations and results.
+This Jupyter Notebook contains the solution for **Assignment 01** of the IDS course, focusing on [brief topic description, e.g., data analysis, machine learning, algorithm implementation]. It includes a structured approach with explanations and results.
 
 ## Requirements
 Ensure the following dependencies are installed:
@@ -35,7 +35,7 @@ The notebook generates [describe outputs, e.g., processed data, visualizations, 
 
 ## Author
 - **Malik**  
-- Contact: 0317-4328123
+- Contact: 0311-1479377
 
 ## License
 For educational use only. Unauthorized distribution is prohibited.
